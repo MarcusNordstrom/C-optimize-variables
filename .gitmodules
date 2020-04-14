@@ -1,0 +1,3 @@
+[submodule "C-Step-Counter"]
+	path = C-Step-Counter
+	url = https://github.com/MarcusNordstrom/C-Step-Counter.git
